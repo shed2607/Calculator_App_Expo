@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Calc-I",
+    "slug": "Calc-I",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./assets/calc.png"
+  }
+}
